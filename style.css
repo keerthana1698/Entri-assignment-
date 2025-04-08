@@ -1,0 +1,15 @@
+.heading h1 {
+  color:lightblue;
+}
+.heading new ul li {
+  font-weight:bold;
+  list-style-type:none;
+}
+main section {
+  font-size:30px;}
+main section.article1{
+  color:lightorange;
+}
+main section.article2{
+}
+
